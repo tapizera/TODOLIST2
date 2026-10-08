@@ -1,15 +1,12 @@
-# TodoList - Projeto Final
+# TodoList - Projeto Final do Mód. II
 
 **Aluno:** Davi Falcão
-**Matrícula:** [sua matrícula]
+**Matrícula:** (vish, não sei)
 **Data de entrega:** 08/10/2026
 
 ## Justificativa do tema
-Porque é um tipo de app que eu mesmo sinto que estou precisando, 
-com minhas próprias ideias e talvez eu consiga criar o app ideal
-que estou em busca, não só como Lista de Tarefas mas algo mais
-completo que possa realmente substituir meus vários apps de
-gerenciamento de vida
+Porque é um tipo de app que eu mesmo estou precisando, acho que com minhas próprias ideias talvez eu consiga criar o app ideal
+que estou buscando, não só como uma Lista de Tarefas simples mas algo mais completo que possa realmente substituir meus vários apps de gerenciamento de vida
 
 ## Como funciona
 - **Tela de lista:** mostra as tarefas salvas, com checkbox para concluir, botão de excluir e botão + para adicionar
